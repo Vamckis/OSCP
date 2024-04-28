@@ -1,0 +1,4 @@
+- Whois thmredteam.com
+- nslookup cafe.thmredteam.com
+- dig cafe.thmredteam.com @1.1.1.1 - (Domain Information Groper)
+- host cafe.thmredteam.com
