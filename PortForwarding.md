@@ -28,6 +28,11 @@ E.g: Confluence 01 is vulnwerable to RCE - CVE-2022-26134
   - To review al details from cwd_user:
   - ![image](https://github.com/user-attachments/assets/9b85a7e6-7319-4a89-ab4b-c2b55d2b6071)
   - ![image](https://github.com/user-attachments/assets/e3fa4c3f-0bce-433a-ac63-823e47dd7ef7)
+  - Use hashcat to decode the hashes
+  - ![image](https://github.com/user-attachments/assets/902f0669-ed38-4097-aa55-33bb9ff16035)
+  - ![image](https://github.com/user-attachments/assets/955a8872-18ab-4de8-bc90-350f47c69563)
+
+
 
 
 
