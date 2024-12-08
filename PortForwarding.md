@@ -32,7 +32,10 @@ E.g: Confluence 01 is vulnwerable to RCE - CVE-2022-26134
   - ![image](https://github.com/user-attachments/assets/902f0669-ed38-4097-aa55-33bb9ff16035)
   - ![image](https://github.com/user-attachments/assets/955a8872-18ab-4de8-bc90-350f47c69563)
 
-
-
+### Port forwarding using SSH to connect PgDB
+- ![image](https://github.com/user-attachments/assets/18e42640-9a54-455d-b672-e5961a8ff42e)
+- ![image](https://github.com/user-attachments/assets/4619d2ac-e2a0-4fac-9c99-193c8dd29c14)
+- Connect using creds got in earlier
+- ![image](https://github.com/user-attachments/assets/3e39ea8a-add8-49dc-862c-4330efcb0ad6)
 
 
