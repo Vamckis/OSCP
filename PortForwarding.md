@@ -16,5 +16,18 @@ E.g: Confluence 01 is vulnwerable to RCE - CVE-2022-26134
   -  There is no Firewall between Conflu01 and DB, so we can connecte from Kali machine usinf port forwarding.
 
 ### Port forwarding using socat
-  - Conf01 should listen to port in WAN and forward all packets them to Pg DB in internal subnet.
-    - ![image](https://github.com/user-attachments/assets/4c6ac43b-f141-4b93-90cb-2ec532e8372b)
+- Conf01 should listen to port in WAN and forward all packets them to Pg DB in internal subnet.
+- ![image](https://github.com/user-attachments/assets/4c6ac43b-f141-4b93-90cb-2ec532e8372b)
+  - ![image](https://github.com/user-attachments/assets/79e18b0d-792d-4c01-a1bd-36e953ef7906)
+  - ![image](https://github.com/user-attachments/assets/1635790f-dc34-4c12-82b8-2e9b1fb77bab)
+  - List all tables
+  - ![image](https://github.com/user-attachments/assets/5c79ca7d-d020-47b1-a496-6511e13d7ca0)
+  - Lets see cwda user table, contains credentails for all confluence users
+  - Connect to DB as below:
+  - ![image](https://github.com/user-attachments/assets/5beefc92-c17e-40cd-b4e0-bb1fc05cc52c)
+  - To review al details from cwd_user:
+  - ![image](https://github.com/user-attachments/assets/9b85a7e6-7319-4a89-ab4b-c2b55d2b6071)
+  - ![image](https://github.com/user-attachments/assets/e3fa4c3f-0bce-433a-ac63-823e47dd7ef7)
+
+
+
